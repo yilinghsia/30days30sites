@@ -15,11 +15,15 @@
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
+    "/hinoki": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
     "/timeline": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/about": [
+    "/daily-ui": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],

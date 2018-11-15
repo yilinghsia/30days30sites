@@ -120,6 +120,15 @@ var Header = function Header(_ref) {
 
       case '/timeline':
         return "what i've been up to";
+
+      case '/hinoki':
+        return "Hinoki Rotterdam";
+
+      case '/aardvark':
+        return "The Aardvark";
+
+      case '/daily-ui':
+        return "Daily UI ";
     }
   }()))));
 };
@@ -10394,30 +10403,57 @@ function (_App) {
           lineNumber: 21
         },
         __self: this
-      }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-        id: "site-content",
+      }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("link", {
+        type: "text/css",
+        rel: "stylesheet",
+        href: "/static/timeline.css",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 22
         },
         __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_header__WEBPACK_IMPORTED_MODULE_3__["default"], {
+      }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("link", {
+        type: "text/css",
+        rel: "stylesheet",
+        href: "/static/portfolio.css",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 23
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("link", {
+        type: "text/css",
+        rel: "stylesheet",
+        href: "/static/responsive.css",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 24
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+        id: "site-content",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 25
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_header__WEBPACK_IMPORTED_MODULE_3__["default"], {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 26
         },
         __self: this
       }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
         className: "content",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 24
+          lineNumber: 27
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(Component, _extends({}, pageProps, {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 25
+          lineNumber: 28
         },
         __self: this
       })))));

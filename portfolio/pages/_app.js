@@ -19,6 +19,9 @@ export default class MyApp extends App {
     return (
       <Container>
         <link type="text/css" rel="stylesheet"  href="/static/style.css" />
+        <link type="text/css" rel="stylesheet"  href="/static/timeline.css" />
+         <link type="text/css" rel="stylesheet"  href="/static/portfolio.css" />
+        <link type="text/css" rel="stylesheet"  href="/static/responsive.css" />
         <div id="site-content">
         <Header/> 
         <div className="content">

@@ -5,7 +5,7 @@ export default () => (
 
      <div className="project-tile">
 		    <div className="project-image"> 
-		 		<img src="/static/images/placeholder.png" alt="Placeholder"/>
+		 		<img src="/static/images/css-image-tile.png" alt="Placeholder"/>
 		    </div>
 		   <div className="project-info">
 		    <span className="title">(coming soon) CSS images</span>
@@ -15,12 +15,16 @@ export default () => (
 
      <div className="project-tile">
 		    <div className="project-image"> 
-		 		<img src="/static/images/placeholder.png" alt="Placeholder"/>
+		 		<img src="/static/images/uidaily.png" alt="Placeholder"/>
 		    </div>
-		   <div className="project-info">
-		    <span className="title">(coming soon)  Daily UI</span>
-		    <span className="description">100 days design challenge</span>
-	   </div>
+        <Link href="/daily-ui"> 
+	    		<a>
+					   <div className="project-info">
+					    <span className="title">Daily UI</span>
+					    <span className="description">100 days design challenge</span>
+				   	</div>
+			   	</a>
+			  </Link>
     </div>
 
 
@@ -43,7 +47,7 @@ export default () => (
 
       <div className="project-tile">
 		    <div className="project-image"> 
-		 			<img src="/static/images/hinoki-tile.png" alt="Picture Hinoki"/>
+		 			<img src="/static/images/hinoki-mockup.png" alt="Picture Hinoki"/>
 		    </div>
 		    <Link href="/hinoki"> 
 			    <a>

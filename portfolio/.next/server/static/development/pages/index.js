@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 7);
+/******/ 	return __webpack_require__(__webpack_require__.s = 3);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -132,7 +132,7 @@ var _jsxFileName = "/Users/yilinghsia/Desktop/100-days-challenges/30-days-30-sit
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "/static/images/placeholder.png",
+    src: "/static/images/css-image-tile.png",
     alt: "Placeholder",
     __source: {
       fileName: _jsxFileName,
@@ -175,46 +175,59 @@ var _jsxFileName = "/Users/yilinghsia/Desktop/100-days-challenges/30-days-30-sit
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "/static/images/placeholder.png",
+    src: "/static/images/uidaily.png",
     alt: "Placeholder",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 18
     },
     __self: this
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "project-info",
+  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+    href: "/daily-ui",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 20
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 21
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "project-info",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 22
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "title",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 21
+      lineNumber: 23
     },
     __self: this
-  }, "(coming soon)  Daily UI"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+  }, "Daily UI"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "description",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 22
+      lineNumber: 24
     },
     __self: this
-  }, "100 days design challenge"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "100 days design challenge"))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "project-tile",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 27
+      lineNumber: 31
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "project-image",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 28
+      lineNumber: 32
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -222,132 +235,132 @@ var _jsxFileName = "/Users/yilinghsia/Desktop/100-days-challenges/30-days-30-sit
     alt: "The aardvark",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 29
+      lineNumber: 33
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
     href: "/aardvark",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 31
+      lineNumber: 35
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 32
+      lineNumber: 36
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "project-info",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 33
+      lineNumber: 37
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "title",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 34
+      lineNumber: 38
     },
     __self: this
   }, "Designlab's The Aardvark"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "description",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 35
+      lineNumber: 39
     },
     __self: this
   }, "UI design workshop "))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "project-tile",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 44
+      lineNumber: 48
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "project-image",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 45
+      lineNumber: 49
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "/static/images/hinoki-tile.png",
+    src: "/static/images/hinoki-mockup.png",
     alt: "Picture Hinoki",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 46
+      lineNumber: 50
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
     href: "/hinoki",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 48
+      lineNumber: 52
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 49
+      lineNumber: 53
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "project-info",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 50
+      lineNumber: 54
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "title",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 51
+      lineNumber: 55
     },
     __self: this
   }, "Hinoki Rotterdam Website"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "description",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 52
+      lineNumber: 56
     },
     __self: this
   }, "a design and prototype"))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "project-tile",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 59
+      lineNumber: 63
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "project-info portfolio-tile",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 60
+      lineNumber: 64
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "project-image",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 61
+      lineNumber: 65
     },
     __self: this
   }, "\uD83C\uDF08"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "title",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 66
+      lineNumber: 70
     },
     __self: this
   }, "Want to see more works?"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "send-email",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 67
+      lineNumber: 71
     },
     __self: this
   }, "Ask and you shall receive! Just send me an email at ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
@@ -355,7 +368,7 @@ var _jsxFileName = "/Users/yilinghsia/Desktop/100-days-challenges/30-days-30-sit
     target: "_top",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 67
+      lineNumber: 71
     },
     __self: this
   }, "yilinghsia@gmail.com"), " and i'll send you my design portfolio!"))));
@@ -363,7 +376,7 @@ var _jsxFileName = "/Users/yilinghsia/Desktop/100-days-challenges/30-days-30-sit
 
 /***/ }),
 
-/***/ 7:
+/***/ 3:
 /*!******************************!*\
   !*** multi ./pages/index.js ***!
   \******************************/

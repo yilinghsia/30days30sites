@@ -30,11 +30,17 @@ const Header = ({ router, children, ...props }) => (
 						(() => { 
 							switch(router.pathname){
 							case '/about':
-							return 'hello! nice to meet you';
-								case '/':
-							return 'the works';
-								case '/timeline':
-							return "what i've been up to";
+								return 'hello! nice to meet you';
+							case '/':
+								return 'the works';
+							case '/timeline':
+								return "what i've been up to";
+							case '/hinoki':
+								return "Hinoki Rotterdam";
+							case '/aardvark':
+								return "The Aardvark";
+							case '/daily-ui':
+								return "Daily UI ";
 							}
 						})()						
 					}
