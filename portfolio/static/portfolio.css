@@ -76,6 +76,7 @@
 	flex-direction: column;
 	box-shadow: 0px 10px 15px #e0e0e0;
 	padding: 10px 40px  50px 40px; 
+	margin-bottom: 35px;
 }
 
 
@@ -83,22 +84,60 @@
 	margin-top: 50px;
 	padding: 0 40px;
 }
+.project-challenge p {
+	width: 45%; 
+}
 
 .project-screens {
 	display: flex;
-	justify-content: space-between; 
+	align-items: flex-start;
+	justify-content: space-between;	
+	margin-bottom: 50px;
 }
 
-.project-screens img { 
-	height: 300px;
+.project-screens img {  
 	width: 49%;
 	object-fit: contain;
+	margin-left: 30px;
 }
+
 .gallery {
 	display: grid;
 	grid-template-columns: repeat(4, 1fr);
 	grid-gap: 0.5rem;
 }
+
+.gallery div {
+	text-align: center;
+}
+
 .challenge-entry img { 
 	width: 100%; 
+}
+
+.challenge-entry p{ 
+	padding: 0 40px; 
+}
+
+.full-design {
+	object-fit: contain;
+	width: 100%;
+	margin-top: 50px;
+}
+
+.styleguide {
+	display: flex;
+	justify-content: space-between;	
+}
+
+.styleguide img{
+	object-fit: contain;
+	width: 40%;
+	height: 430px;
+}
+
+.caption {
+	font-size: 12px;
+	position: relative;
+	top: -6px;
 }

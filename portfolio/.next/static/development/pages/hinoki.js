@@ -120,29 +120,30 @@ var _jsxFileName = "/Users/yilinghsia/Desktop/100-days-challenges/30-days-30-sit
       lineNumber: 15
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "/static/images/hinoki-about.png",
-    alt: "hinoki",
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 16
     },
     __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "/static/images/hinoki-franchise.png",
+  }, "The old website was a standard template which sped up the design process but didn\u2019t allow for a lot of customisation. The tricky part for me was trying to incorporate Hinoki\u2019s current brand that they\u2019ve developed into the design which I would describe as oriental, warm, casual, sincere and masculine. In order to create the same vibe as the restaurant, I incorporated a lot of the restaurant\u2019s elements into the webdesign. I went with a dark theme with a lot of warm colors as to show that cozy and sincere feeling."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "/static/images/hinoki-about.png",
     alt: "hinoki",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 17
+      lineNumber: 20
     },
     __self: this
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    className: "full-design",
+    src: "/static/images/hinoki.png",
+    alt: "hinoki",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19
+      lineNumber: 22
     },
     __self: this
-  }, "The old website was a standard template which sped up the design process but didn\u2019t allow for a lot of customisation. The tricky part for me was trying to incorporate Hinoki\u2019s current brand that they\u2019ve developed into the design which I would describe as oriental, warm, casual, sincere and masculine. In order to create the same vibe as the restaurant, I incorporated a lot of the restaurant\u2019s elements into the webdesign. I went with a dark theme with a lot of warm colors as to show that cozy and sincere feeling.")));
+  })));
 });
     (function (Component, route) {
       if(!Component) return
