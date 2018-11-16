@@ -11,19 +11,7 @@
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/about": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
     "/index": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/daily-ui": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/aardvark": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
@@ -31,7 +19,7 @@
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/timeline": [
+    "/daily-ui": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],

@@ -30,11 +30,7 @@
 
   #projects {  
     grid-template-columns: repeat(2, 1fr); 
-  } 
-
-  .project-image {
-
-  }
+  }  
   /* timelline */
   #current-projects {
     position: relative;
@@ -75,9 +71,6 @@
   }
 
   /* portfolio */
-  .project-summary {
-    flex-direction: column-reverse;
-  }
   .project-summary img {
     width: 85%;
     margin: 15px auto;

@@ -67,59 +67,126 @@ var _jsxFileName = "/Users/yilinghsia/Desktop/100-days-challenges/30-days-30-sit
       lineNumber: 2
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 3
-    },
-    __self: this
-  }, "About the challenge"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "project-summary",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 4
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
-    className: "intro",
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "/static/images/uidaily.png",
+    alt: "hinoki design on devices",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 5
     },
     __self: this
-  }, "When Hinoki Noodle Soup first opened up in 2016 it was the first ramen restaurant in Rotterdam, The Netherlands. While busy with opening up and getting into the business, the owners hadn\u2019t yet put much thought into the identity of their brand besides that it should have a strong Japanese feeling. This vague idea continued to flow into the design of the old homepage that was put together swiftly back then. After the designs were done, I put together a simple prototype with HTML, CSS and Javascript."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "/static/images/hinoki-devices.png",
-    alt: "hinoki design on devices",
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 9
+      lineNumber: 5
     },
     __self: this
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 7
+    },
+    __self: this
+  }, "About the challenge"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "intro",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 8
+    },
+    __self: this
+  }, "When Hinoki Noodle Soup first opened up in 2016 it was the first ramen restaurant in Rotterdam, The Netherlands. While busy with opening up and getting into the business, the owners hadn\u2019t yet put much thought into the identity of their brand besides that it should have a strong Japanese feeling. This vague idea continued to flow into the design of the old homepage that was put together swiftly back then. After the designs were done, I put together a simple prototype with HTML, CSS and Javascript.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "challenge-entry",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 12
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 13
-    },
-    __self: this
-  }, "Day 1: Sign up"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "/static/images/hinoki-devices.png",
-    alt: "hinoki design on devices",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 14
     },
     __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 15
+    },
+    __self: this
+  }, "Days 1-7: Getting in the groove"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "gallery",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 16
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "/static/images/ui-daily/sign-up.png",
+    alt: "day",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 17
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "/static/images/ui-daily/checkout.png",
+    alt: "day",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 18
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "/static/images/ui-daily/Landing-page.png",
+    alt: "day",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 19
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "/static/images/ui-daily/Calculator.png",
+    alt: "day",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 20
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "/static/images/ui-daily/App-icon.png",
+    alt: "day",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 21
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "/static/images/ui-daily/User-profile.png",
+    alt: "day",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 22
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "/static/images/ui-daily/sign-up.png",
+    alt: "day",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 23
+    },
+    __self: this
+  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 24
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 25
     },
     __self: this
   }, "When Hinoki Noodle Soup first opened up in 2016 it was the first ramen restaurant in Rotterdam, The Netherlands. While busy with opening up and getting into the business, the owners hadn\u2019t yet put much thought into the identity of their brand besides that it should have a strong Japanese feeling. This vague idea continued to flow into the design of the old homepage that was put together swiftly back then. After the designs were done, I put together a simple prototype with HTML, CSS and Javascript.")));

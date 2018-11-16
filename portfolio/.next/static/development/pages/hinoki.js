@@ -66,35 +66,41 @@ var _jsxFileName = "/Users/yilinghsia/Desktop/100-days-challenges/30-days-30-sit
       lineNumber: 2
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "project-summary",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 3
     },
     __self: this
-  }, "About the project"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "project-summary",
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "/static/images/hinoki-devices.png",
+    alt: "hinoki design on devices",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 4
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
-    className: "intro",
+  }), " ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 4
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 5
     },
     __self: this
-  }, "When Hinoki Noodle Soup first opened up in 2016 it was the first ramen restaurant in Rotterdam, The Netherlands. While busy with opening up and getting into the business, the owners hadn\u2019t yet put much thought into the identity of their brand besides that it should have a strong Japanese feeling. This vague idea continued to flow into the design of the old homepage that was put together swiftly back then. After the designs were done, I put together a simple prototype with HTML, CSS and Javascript."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "/static/images/hinoki-devices.png",
-    alt: "hinoki design on devices",
+  }, "About the project"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "intro",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 9
+      lineNumber: 6
     },
     __self: this
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "When Hinoki Noodle Soup first opened up in 2016 it was the first ramen restaurant in Rotterdam, The Netherlands. While busy with opening up and getting into the business, the owners hadn\u2019t yet put much thought into the identity of their brand besides that it should have a strong Japanese feeling. This vague idea continued to flow into the design of the old homepage that was put together swiftly back then. After the designs were done, I put together a simple prototype with HTML, CSS and Javascript.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "project-challenge",
     __source: {
       fileName: _jsxFileName,

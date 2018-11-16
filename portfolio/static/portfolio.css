@@ -66,17 +66,22 @@
 .project-summary img {
 	width: 60%;
 	height: 100%;
-	margin-left: 50px;
-	object-fit: contain;
+	margin: 0 auto;
+	object-fit: contain; 
 }
+
 
 .project-summary {
 	display: flex;
+	flex-direction: column;
+	box-shadow: 0px 10px 15px #e0e0e0;
+	padding: 10px 40px  50px 40px; 
 }
 
 
 .project-challenge {
 	margin-top: 50px;
+	padding: 0 40px;
 }
 
 .project-screens {
@@ -89,10 +94,11 @@
 	width: 49%;
 	object-fit: contain;
 }
-
-.challenge-entry img {
-	height: auto;
-	width: 70%;
-	margin: 0 auto;
-	display: block;
+.gallery {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-gap: 0.5rem;
+}
+.challenge-entry img { 
+	width: 100%; 
 }
