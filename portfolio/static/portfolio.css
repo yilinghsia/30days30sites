@@ -29,6 +29,7 @@
 .project-image img {
 	height: 100%; 
 	flex-grow: 1;
+	object-fit: cover;
 }
 
 .description, .title {
@@ -66,8 +67,32 @@
 	width: 60%;
 	height: 100%;
 	margin-left: 50px;
+	object-fit: contain;
 }
 
 .project-summary {
 	display: flex;
+}
+
+
+.project-challenge {
+	margin-top: 50px;
+}
+
+.project-screens {
+	display: flex;
+	justify-content: space-between; 
+}
+
+.project-screens img { 
+	height: 300px;
+	width: 49%;
+	object-fit: contain;
+}
+
+.challenge-entry img {
+	height: auto;
+	width: 70%;
+	margin: 0 auto;
+	display: block;
 }

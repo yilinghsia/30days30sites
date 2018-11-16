@@ -9975,7 +9975,7 @@ var _jsxFileName = "/Users/yilinghsia/Desktop/100-days-challenges/30-days-30-sit
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "/static/images/the-aardvark.png",
+    src: "/static/images/the-aardvark-tile.png",
     alt: "The aardvark",
     __source: {
       fileName: _jsxFileName,

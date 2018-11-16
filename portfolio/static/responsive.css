@@ -14,6 +14,15 @@
     margin-bottom: 20px;
   }
 
+.about-content {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.about-content img {
+  margin: 20px auto;
+}
+
   .section-line {
     width: 90%;
     margin: 0 auto;
@@ -24,7 +33,7 @@
   } 
 
   .project-image {
- 
+
   }
   /* timelline */
   #current-projects {
@@ -63,6 +72,19 @@
     background-color: white;
     z-index: 3;
     left: 0;
+  }
+
+  /* portfolio */
+  .project-summary {
+    flex-direction: column-reverse;
+  }
+  .project-summary img {
+    width: 85%;
+    margin: 15px auto;
+  }
+
+  .project-screens img{
+    height: 200px;
   }
 }
 

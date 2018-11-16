@@ -125,10 +125,10 @@ var Header = function Header(_ref) {
         return "Hinoki Rotterdam";
 
       case '/aardvark':
-        return "The Aardvark";
+        return "Designlab's The Aardvark";
 
       case '/daily-ui':
-        return "Daily UI ";
+        return "Daily UI";
     }
   }()))));
 };

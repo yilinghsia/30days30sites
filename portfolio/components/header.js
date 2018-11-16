@@ -38,9 +38,9 @@ const Header = ({ router, children, ...props }) => (
 							case '/hinoki':
 								return "Hinoki Rotterdam";
 							case '/aardvark':
-								return "The Aardvark";
+								return "Designlab's The Aardvark";
 							case '/daily-ui':
-								return "Daily UI ";
+								return "Daily UI";
 							}
 						})()						
 					}

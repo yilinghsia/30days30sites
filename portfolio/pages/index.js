@@ -30,7 +30,7 @@ export default () => (
 
     <div className="project-tile">
 	    <div className="project-image"> 
-	 			<img src="/static/images/the-aardvark.png" alt="The aardvark"/>
+	 			<img src="/static/images/the-aardvark-tile.png" alt="The aardvark"/>
 	    </div>
 		    <Link href="/aardvark"> 
 			    <a>
