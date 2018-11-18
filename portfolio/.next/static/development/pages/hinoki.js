@@ -127,11 +127,34 @@ var _jsxFileName = "/Users/yilinghsia/Desktop/100-days-challenges/30-days-30-sit
     },
     __self: this
   }, "The old website was a standard template which sped up the design process but didn\u2019t allow for a lot of customisation. The tricky part for me was trying to incorporate Hinoki\u2019s current brand that they\u2019ve developed into the design which I would describe as oriental, warm, casual, sincere and masculine. In order to create the same vibe as the restaurant, I incorporated a lot of the restaurant\u2019s elements into the webdesign. I went with a dark theme with a lot of warm colors as to show that cozy and sincere feeling."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "/static/images/hinoki-about.png",
+    src: "/static/images/hinoki-mobile.png",
     alt: "hinoki",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 20
+    },
+    __self: this
+  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "styleguide",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 23
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "/static/images/hinoki-wireframe.png",
+    alt: "mockup aardvark",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 24
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "/static/images/hinoki-styleguide.png",
+    alt: "styleguide aardvark",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 25
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -140,7 +163,7 @@ var _jsxFileName = "/Users/yilinghsia/Desktop/100-days-challenges/30-days-30-sit
     alt: "hinoki",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 22
+      lineNumber: 27
     },
     __self: this
   })));

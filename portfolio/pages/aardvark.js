@@ -21,8 +21,8 @@ export default () => (
 				<img src="/static/images/aardvark-moodboard.png" alt="moodboard"/>
 			</div>
 			<div className="styleguide">
-				<img src="/static/images/mockup-aardvark.png" alt="mockup aardvark"/>
-
+				<img src="/static/images/mockup-aardvark.png"  alt="mockup aardvark"/>
+				<img src="/static/images/aardvark-styleguide.png" alt="styleguide aardvark"/>
 			</div>
 
 			<img className="full-design" src="/static/images/Aardvark.png" alt="full screen aardvark"/>

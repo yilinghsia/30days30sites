@@ -131,9 +131,9 @@
 }
 
 .styleguide img{
-	object-fit: contain;
-	width: 40%;
+	object-fit: contain; 
 	height: 430px;
+	max-width: 55%;
 }
 
 .caption {

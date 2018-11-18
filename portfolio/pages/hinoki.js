@@ -17,7 +17,12 @@ export default () => (
 					The old website was a standard template which sped up the design process but didn’t allow for a lot of customisation. The tricky part for me was trying to incorporate Hinoki’s current brand that they’ve developed into the design which I would describe as oriental, warm, casual, sincere and masculine.
 					In order to create the same vibe as the restaurant, I incorporated a lot of the restaurant’s elements into the webdesign. I went with a dark theme with a lot of warm colors as to show that cozy and sincere feeling.
 				</p> 
-				<img src="/static/images/hinoki-about.png" alt="hinoki"/>
+				<img src="/static/images/hinoki-mobile.png" alt="hinoki"/>
+			</div>
+
+			<div className="styleguide">
+				<img src="/static/images/hinoki-wireframe.png"  alt="mockup aardvark"/>
+				<img src="/static/images/hinoki-styleguide.png" alt="styleguide aardvark"/>
 			</div>
 			<img className="full-design" src="/static/images/hinoki.png" alt="hinoki"/>
 		</div>

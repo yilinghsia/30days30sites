@@ -157,6 +157,14 @@ var _jsxFileName = "/Users/yilinghsia/Desktop/100-days-challenges/30-days-30-sit
       lineNumber: 24
     },
     __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "/static/images/aardvark-styleguide.png",
+    alt: "styleguide aardvark",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 25
+    },
+    __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "full-design",
     src: "/static/images/Aardvark.png",
