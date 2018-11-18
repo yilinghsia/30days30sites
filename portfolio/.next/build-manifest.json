@@ -15,11 +15,15 @@
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/aardvark": [
+    "/index": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/index": [
+    "/daily-ui": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/aardvark": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
