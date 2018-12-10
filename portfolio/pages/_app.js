@@ -18,6 +18,7 @@ export default class MyApp extends App {
 
     return (
       <Container>
+      <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
         <link type="text/css" rel="stylesheet"  href="/static/style.css" />
         <link type="text/css" rel="stylesheet"  href="/static/timeline.css" />
          <link type="text/css" rel="stylesheet"  href="/static/portfolio.css" />

@@ -1,5 +1,5 @@
 
-@media screen and (max-width: 850px) {
+@media only screen and (max-width: 850px) {
   .content {
     padding: 50px;
   }
@@ -96,11 +96,11 @@
   }
 
   .styleguide img{
-  max-width: 90%;
+    max-width: 90%;
   }
 
   .full-design {
-    margin-top: 0;
+    margin-top: 0;  
   }
 
   .challenge-entry p {
@@ -108,8 +108,24 @@
   }
 }
 
-@media screen and (max-width: 500px) {
+@media only screen and (max-width: 500px) {
+  .content {
+    padding: 20px;
+  }
   #projects {  
     grid-template-columns: repeat(1, 1fr);
-  } 
-}
+  }
+
+  @media only screen and (max-width: 400px) {
+    .site-nav {
+      flex-direction: column;
+    }
+    .site-nav a{
+      padding: 5px 0;
+    }
+
+    .timeline .content {
+      padding: 8px;
+
+    }
+  }

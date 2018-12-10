@@ -356,10 +356,9 @@ function (_App) {
           lineNumber: 20
         },
         __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("link", {
-        type: "text/css",
-        rel: "stylesheet",
-        href: "/static/style.css",
+      }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("meta", {
+        name: "viewport",
+        content: "width=device-width,initial-scale=1.0",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 21
@@ -368,7 +367,7 @@ function (_App) {
       }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("link", {
         type: "text/css",
         rel: "stylesheet",
-        href: "/static/timeline.css",
+        href: "/static/style.css",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 22
@@ -377,7 +376,7 @@ function (_App) {
       }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("link", {
         type: "text/css",
         rel: "stylesheet",
-        href: "/static/portfolio.css",
+        href: "/static/timeline.css",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 23
@@ -386,36 +385,45 @@ function (_App) {
       }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("link", {
         type: "text/css",
         rel: "stylesheet",
-        href: "/static/responsive.css",
+        href: "/static/portfolio.css",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 24
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("link", {
+        type: "text/css",
+        rel: "stylesheet",
+        href: "/static/responsive.css",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 25
         },
         __self: this
       }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
         id: "site-content",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 25
+          lineNumber: 26
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_header__WEBPACK_IMPORTED_MODULE_3__["default"], {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 26
+          lineNumber: 27
         },
         __self: this
       }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
         className: "content",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 27
+          lineNumber: 28
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(Component, _extends({}, pageProps, {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 28
+          lineNumber: 29
         },
         __self: this
       })))));

@@ -1,35 +1,50 @@
 {
-  "devFiles": [
-    "static/development/dll/dll_0dcd5bb978dc65e9b4c3.js"
-  ],
+  "devFiles": [],
   "pages": {
     "/_app": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/_error": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/hinoki": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/index": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/daily-ui": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.5e771d6d287b21ef08d2.js",
+      "static/runtime/main-844ab9f00aacf4ba1121.js"
     ],
     "/aardvark": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.5e771d6d287b21ef08d2.js",
+      "static/runtime/main-844ab9f00aacf4ba1121.js"
+    ],
+    "/about": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.5e771d6d287b21ef08d2.js",
+      "static/runtime/main-844ab9f00aacf4ba1121.js"
+    ],
+    "/daily-ui": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.5e771d6d287b21ef08d2.js",
+      "static/runtime/main-844ab9f00aacf4ba1121.js"
+    ],
+    "/hinoki": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.5e771d6d287b21ef08d2.js",
+      "static/runtime/main-844ab9f00aacf4ba1121.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.5e771d6d287b21ef08d2.js",
+      "static/runtime/main-844ab9f00aacf4ba1121.js"
+    ],
+    "/timeline": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.5e771d6d287b21ef08d2.js",
+      "static/runtime/main-844ab9f00aacf4ba1121.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.5e771d6d287b21ef08d2.js",
+      "static/runtime/main-844ab9f00aacf4ba1121.js"
     ],
     "/": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.5e771d6d287b21ef08d2.js",
+      "static/runtime/main-844ab9f00aacf4ba1121.js"
     ]
   }
 }

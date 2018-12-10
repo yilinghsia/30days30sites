@@ -1,0 +1,83 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "external \"react\"": 0,
+      "external \"next/link\"": 1,
+      "external \"next/router\"": 2,
+      "external \"@babel/runtime/regenerator\"": 3,
+      "external \"next/app\"": 4,
+      "multi ./pages/_app.js": 5,
+      "multi ./pages/aardvark.js": 6,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/aardvark.js": 7,
+      "multi ./pages/about.js": 8,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/about.js": 9,
+      "multi ./pages/daily-ui.js": 10,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/daily-ui.js": 11,
+      "multi ./pages/hinoki.js": 12,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/hinoki.js": 13,
+      "multi ./pages/index.js": 14,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.js": 15,
+      "multi ./pages/timeline.js": 16,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/timeline.js": 17,
+      "multi node_modules/next/dist/pages/_error.js": 18,
+      "node_modules/next/dist/pages/_error.js": 19,
+      "external \"next/error\"": 20,
+      "multi node_modules/next/dist/pages/_document.js": 21,
+      "node_modules/next/dist/pages/_document.js": 22,
+      "external \"next/document\"": 23,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/_app.js e99b38daffa948f40cbd9754df52e5ee": 24
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "14": 14,
+      "15": 15,
+      "16": 16,
+      "17": 17,
+      "18": 18,
+      "19": 19,
+      "20": 20,
+      "21": 21,
+      "22": 22,
+      "23": 23,
+      "24": 24
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static/8daYq_0B~DZ1CHD~iftNm/pages/_app.js": 0,
+      "static/8daYq_0B~DZ1CHD~iftNm/pages/aardvark.js": 1,
+      "static/8daYq_0B~DZ1CHD~iftNm/pages/about.js": 2,
+      "static/8daYq_0B~DZ1CHD~iftNm/pages/daily-ui.js": 3,
+      "static/8daYq_0B~DZ1CHD~iftNm/pages/hinoki.js": 4,
+      "static/8daYq_0B~DZ1CHD~iftNm/pages/index.js": 5,
+      "static/8daYq_0B~DZ1CHD~iftNm/pages/timeline.js": 6,
+      "static/8daYq_0B~DZ1CHD~iftNm/pages/_error.js": 7,
+      "static/8daYq_0B~DZ1CHD~iftNm/pages/_document.js": 8
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  }
+}

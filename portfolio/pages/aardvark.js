@@ -22,10 +22,10 @@ export default () => (
 			</div>
 			<div className="styleguide">
 				<img src="/static/images/mockup-aardvark.png"  alt="mockup aardvark"/>
-				<img src="/static/images/aardvark-styleguide.png" alt="styleguide aardvark"/>
+				<img src="/static/images/aardvark-styleguide.png"  alt="styleguide aardvark"/>
 			</div>
 
-			<img className="full-design" src="/static/images/Aardvark.png" alt="full screen aardvark"/>
+			<img className="full-design" src="/static/images/aardvark.png" alt="full screen aardvark"/>
 		</div>
 	</div>
 	)
