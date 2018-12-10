@@ -670,7 +670,7 @@ var _jsxFileName = "/Users/yilinghsia/Desktop/100-days-challenges/30-days-30-sit
 
 /***/ }),
 
-/***/ 4:
+/***/ 3:
 /*!*********************************!*\
   !*** multi ./pages/daily-ui.js ***!
   \*********************************/
@@ -695,5 +695,5 @@ module.exports = dll_ecba6b44147cc8018369;
 
 /***/ })
 
-},[[4,"static/runtime/webpack.js"]]]));;
+},[[3,"static/runtime/webpack.js"]]]));;
 //# sourceMappingURL=daily-ui.js.map
